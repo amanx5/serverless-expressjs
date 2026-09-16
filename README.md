@@ -1,3 +1,9 @@
+# Serverless Express.js Hello World
+
+Simple Express.js + Vercel example that returns a "Hello Express!" response.
+
+Read docs: https://vercel.com/docs/frameworks/backend/express
+
 To develop locally:
 
 ```
